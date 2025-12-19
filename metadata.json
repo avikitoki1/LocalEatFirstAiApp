@@ -1,0 +1,7 @@
+{
+  "name": "LocalEats AI",
+  "description": "An intelligent food discovery app that uses Gemini and Google Maps to find authentic local cuisine near you.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
